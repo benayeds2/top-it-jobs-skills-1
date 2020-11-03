@@ -1,5 +1,5 @@
 {
-    "total": "https://top-it-job-skills.000webhostapp.com/getAllList.php",
+    "total": "https://topitjobs.000webhostapp.com/getAllList.php",
     "skill": "https://top-it-job-skills.000webhostapp.com/getListByType.php",
     "country": "https://top-it-job-skills.000webhostapp.com/getAllListByCountry.php",
     "countype": "https://top-it-job-skills.000webhostapp.comgetAllListByCountryByType.php",
